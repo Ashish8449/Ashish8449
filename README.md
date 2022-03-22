@@ -27,6 +27,25 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashish8449&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="ashish8449" /></p>
 
 <br>
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+
+  <p align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ashish8449's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashish8449&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+
+<br/>
+
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8449&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashish8449" height="192px"/>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+
 <br>
 
 ## 👀 My Competitive Programming Profiles
@@ -138,24 +157,6 @@
 
 <br/>
 
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-
-  <p align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ashish8449's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashish8449&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-
-<br/>
-
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish8449&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ashish8449" height="192px"/>
-<br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </p>
 
 
 ---
