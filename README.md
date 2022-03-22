@@ -48,7 +48,7 @@
 
 <br>
 
-## 👀 My Competitive Programming Profiles
+<!-- ## 👀 My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/ashish_8449"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a> <a href="https://www.codechef.com/users/ashish_8449"><img src="https://img.shields.io/badge/codechef%20-%23FFA116.svg?style=plastic&logo=codechef&logoColor=black" alt="Code Chef"/></a>
@@ -65,9 +65,9 @@
 <a href="https://www.facebook.com/ashish.gururani.735/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/ashish_gururani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-</p>
+</p> -->
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -154,7 +154,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 
 </p>
-
+ -->
 <br/>
 
 
