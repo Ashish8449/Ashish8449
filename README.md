@@ -1,10 +1,10 @@
 # Hi, I'm Ashish Gururani! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Competitive+Programmer;Frontend+Developer;DS+|+Algorithms+|+OOP+;Pupil+on+Codeforces+(3+Stars);Always+learning+new+things&center=true&width=500&height=50)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashish8449&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/Ashish8449)
 
-🎓 **Frontend Developer | Competitive Programmer | CS Student @ G.B. Pant University**
+🎓 **Frontend Developer | Competitive Programmer |  @ G.B. Pant University**
 
 ---
 
