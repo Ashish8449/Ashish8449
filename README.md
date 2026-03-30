@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Ashish8449">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Gururani+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%2B+Next.js;DevOps+Engineer+%7C+Docker+%7C+K8s+%7C+AWS;Competitive+Programmer+%40+Codeforces;Building+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Gururani+%F0%9F%91%8B;Full+Stack+Developer+%7C+.NET+%2B+React;DevOps+Engineer+%7C+Docker+%7C+K8s+%7C+AWS;Competitive+Programmer+%40+Codeforces;Building+scalable+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
